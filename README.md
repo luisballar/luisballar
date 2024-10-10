@@ -7,7 +7,7 @@
 
 - I like challenges and new technologies 🧑‍💻
 
-- I often enjoy reading about tech news 📃
+- Reading about tech news now... 📃
 
 
 &emsp;

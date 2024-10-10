@@ -35,16 +35,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)
 
-### Servers
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) 
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) 
-
 ### Other Tools
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) 
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=plastic&logo=Raspberry-Pi)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=plastic&logo=apache-tomcat&logoColor=black) 
+
 
 &emsp;
 # 📊 GitHub Stats:

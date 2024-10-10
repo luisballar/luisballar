@@ -1,5 +1,9 @@
 # 💫 About Me:
-Currently pursuing a Computer Science Bachelor's degree at the University of Costa Rica 🏘️<br>Always learning new things 💡<br>I like challenges and new technologies 🧑‍💻<br>I often enjoy reading about tech news 📃<br>Here is my LinkedIn profile 🔗
+- Currently pursuing a Computer Science Bachelor's degree at the University of Costa Rica 🏘️
+- <br>Always learning new things 💡
+- <br>I like challenges and new technologies 🧑‍💻
+- <br>I often enjoy reading about tech news 📃
+- <br>Here is my LinkedIn profile 🔗
 
 
 ## 🌐 Socials:

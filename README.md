@@ -5,6 +5,8 @@
 
 - I like challenges and new technologies 🧑‍💻
 
+- My areas of interest are cybersecurity and software development 👾
+
 - I often enjoy reading about tech news 📃
 
 

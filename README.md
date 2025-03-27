@@ -1,7 +1,7 @@
 # 💫 About Me
 - Currently pursuing a Computer Science Bachelor's degree at the University of Costa Rica 🏘️
 
-- My areas of interest are cybersecurity and software development 👾
+- My main of interest is cybersecurity 👾
 
 - Always learning new things 💡
 

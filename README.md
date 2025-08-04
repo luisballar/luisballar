@@ -1,5 +1,5 @@
 # 💫 About Me
-- Currently pursuing a Computer Science Bachelor's degree at the University of Costa Rica 🏘️
+- Currently pursuing a Business Informatics Bachelor's degree at the University of Costa Rica 🏘️
 
 - My main of interest is cybersecurity 👾
 

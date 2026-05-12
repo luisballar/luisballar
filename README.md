@@ -1,21 +1,22 @@
 # 💫 About Me
-- Currently pursuing a Business Informatics Bachelor's degree at the University of Costa Rica 🏘️
+🎓 Final-year Business Computing student at University of Costa Rica with a strong foundation in software engineering and business intelligence.
 
-- My main of interest is cybersecurity 👾
+💻 Experienced in designing and developing scalable software solutions, with the ability to transform business requirements into efficient and practical technical implementations.
 
-- Always learning new things 💡
+🤝 Skilled at collaborating in agile teams, contributing to the full software development lifecycle and supporting end-to-end product delivery.
 
-- I like challenges and new technologies 🧑‍💻
+🌐 Familiar with REST APIs, HTTP concepts, and modern development practices.
 
-- Reading about tech news now... 📃
+🤖 Passionate about leveraging AI tools to improve productivity, optimize workflows, and build smarter solutions.
 
+🚀 Highly motivated to gain hands-on industry experience and continue growing as a software engineer
 
 &emsp;
-## 🌐 Socials
+# 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-ballar-367405275/) 
 
 &emsp;
-## 💻 Tech Stack
+# 💻 Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) 
@@ -42,19 +43,15 @@
 
 
 ### Other Tools
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) 
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=flat-square&logo=swagger&logoColor=white)
 
 &emsp;
 # 📊 GitHub Stats:
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisballar&theme=prussian&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="192px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisballar&theme=prussian&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="192px"/>
-</div>
 
 ### 🔥 Streak Status
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=luisballar&theme=buefy" alt="GitHub Streak" /></a>
